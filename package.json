@@ -1,6 +1,6 @@
 {
   "name": "n8n-app",
-  "version": "1.9.0",
+  "version": "1.120.4",
   "scripts": {
     "start": "n8n"
   },
